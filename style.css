@@ -60,14 +60,16 @@ span.psw {
 }
 
 
-
+.logo img {
+  max-width: 100%;
+}
 
 .container2 {
     position: relative;
     text-align: center;
     color: white;
   }
-  
+
 
   .centered {
     position: absolute;
@@ -75,10 +77,3 @@ span.psw {
     left: 50%;
     transform: translate(-50%, -50%);
   }
-
-
-
-
-
-
-
