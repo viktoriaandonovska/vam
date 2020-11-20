@@ -42,7 +42,6 @@ button:hover {
 
 }
 
-
 span.psw {
   float: right;
   padding-top: 16px;
@@ -51,7 +50,6 @@ span.psw {
 /* Change styles for span and cancel button on extra small screens */
 @media screen and (max-width: 300px) {
   span.psw {
-     display: block;
      float: none;
   }
   .cancelbtn {
@@ -70,6 +68,9 @@ span.psw {
     color: white;
   }
 
+.baggrund {
+  max-height: 100%;
+}
 
   .centered {
     position: absolute;
